@@ -90,7 +90,7 @@ class Post extends Component {
 			<div className="height100">
 			<img src = ''/>
 			  <div className="inputField">
-				<form className="ui form" action="http://localhost:3000/account/books" >
+				<form className="ui form" action={process.env.PUBLIC_URL + "/account/books"} >
 				  <div class="field">
 					<label>Title</label>
 					<input type="text" name="title" placeholder="Title" onChange={this.titleChangeHandler}/>

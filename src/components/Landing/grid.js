@@ -128,7 +128,7 @@ class GridTemp extends React.Component {
       }
 
       detailClickHandler(value) {
-        window.location.href = 'http://localhost:3000/details/' + value;
+        window.location.href = process.env.PUBLIC_URL + '/details/' + value;
       }
 
     render(){

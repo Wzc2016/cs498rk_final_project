@@ -22,15 +22,15 @@ const App = () => (
 			<Navigation />
 
 			<hr />
-			<Route exact path={ROUTES.DETAILED} component={Detailed} />
-			<Route exact path={ROUTES.LANDING} component={LandingPage} />
-			<Route path={ROUTES.SIGN_UP} component={SignUpPage} />
-			<Route path={ROUTES.SIGN_IN} component={SignInPage} />
-			<Route path={ROUTES.ACCOUNT} component={AccountPage} />
-			<Route path={ROUTES.ADMIN} component={AdminPage} />
-			<Route path={ROUTES.POST} component={PostPage} />
-			<Route path={ROUTES.CATEGORY} component={CategoryPage} />
-			<Route path={ROUTES.RESET} component={ResetPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.DETAILED} component={Detailed} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.LANDING} component={LandingPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.SIGN_UP} component={SignUpPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.SIGN_IN} component={SignInPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.ACCOUNT} component={AccountPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.ADMIN} component={AdminPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.POST} component={PostPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.CATEGORY} component={CategoryPage} />
+			<Route exact path={process.env.PUBLIC_URL + ROUTES.RESET} component={ResetPage} />
 		</div>
   </Router>
 );

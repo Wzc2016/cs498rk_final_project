@@ -30,7 +30,7 @@ class Detailed extends React.Component {
 
     buyClickHandler() {
         axios.delete('https://rkproject.herokuapp.com/api/books/' + this.props.match.params.id).then(() => {
-            window.location.href = 'http://localhost:3000';
+            window.location.href = process.env.PUBLIC_URL;
         })
     }
 

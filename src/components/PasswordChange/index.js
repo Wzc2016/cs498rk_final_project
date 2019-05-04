@@ -48,7 +48,7 @@ class PasswordChangeForm extends Component {
       passwordOne !== passwordTwo || passwordOne === '';
 
     return (
-      <Form onSubmit={this.onSubmit} action="http://localhost:3000/account" id="form">
+      <Form onSubmit={this.onSubmit} action={process.env.PUBLIC_URL + "/account"} id="form">
       	<h1> Reset Your Password </h1>
         <input
           name="passwordOne"
