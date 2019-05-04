@@ -1,0 +1,74 @@
+
+@import url(https://fonts.googleapis.com/css?family=Advent+Pro:100);
+
+// .pusher{
+//     display: flex;
+// }
+//
+// #logo{
+//     display: flex;
+//     align-items: center;
+//     font-size: 30px;
+// }
+//
+// #category{
+//     font-size: 20px;
+// }
+//
+// #root{
+//     width: 100%;
+//     margin: auto;
+// }
+//
+// .ui.vertical.segment{
+//     margin: auto;
+//     width: 100%;
+// }
+//
+// #searchBar{
+//     margin: auto;
+// }
+//
+// .right .item{
+//     margin-left: 0;
+// }
+//
+// .ui.link.inverted.menu .item:active {
+//   background: #1B1C1D;
+//   color: #17AA1C;
+// }
+
+#SignOut:hover, #hoverEffect:hover {
+  background: red;
+}
+
+#SignOut:active, #hoverEffect:active {
+  background: #cc0000;
+}
+
+#SignOut:visited, #hoverEffect:visited {
+  background: #cc0000;
+}
+// #LogoContainer:hover{
+//   background: red;
+// }
+//
+// #LogoContainer:active {
+//   background: #cc0000;
+// }
+
+#SignOut, #hoverEffect{
+  font-size: 17px !important;
+}
+
+#navContainer{
+  margin-bottom: 56px;
+  width: 100%;
+}
+
+#logo{
+  font-size: 30px !important;
+  font-weight: bold;
+  font-family: 'Advent Pro', sans-serif;
+
+}
