@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "282122d3f7ef0776b56a",
+    "revision": "c25d2ef76990fc791e35",
     "url": "/cs498rk_final_project/static/css/main.8a7e8558.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/img2.789d25c3.jpg"
   },
   {
-    "revision": "b0041e4b491d718d4837",
-    "url": "/cs498rk_final_project/static/js/1.b0041e4b.chunk.js"
+    "revision": "8344fdd0c59e553f60d3",
+    "url": "/cs498rk_final_project/static/js/1.8344fdd0.chunk.js"
   },
   {
     "revision": "26a59b878ca351f7d8c2",
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "282122d3f7ef0776b56a",
-    "url": "/cs498rk_final_project/static/js/main.282122d3.chunk.js"
+    "revision": "c25d2ef76990fc791e35",
+    "url": "/cs498rk_final_project/static/js/main.c25d2ef7.chunk.js"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
-    "url": "/cs498rk_final_project/static/media/icons.b87b9ba5.ttf"
-  },
-  {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
     "url": "/cs498rk_final_project/static/media/brand-icons.13db00b7.eot"
+  },
+  {
+    "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
+    "url": "/cs498rk_final_project/static/media/icons.b87b9ba5.ttf"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -92,11 +92,11 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/brand-icons.a1a749e8.svg"
   },
   {
-    "revision": "b0041e4b491d718d4837",
+    "revision": "8344fdd0c59e553f60d3",
     "url": "/cs498rk_final_project/static/css/1.c6588800.chunk.css"
   },
   {
-    "revision": "06be6f95ce9636841517bf973e003ed5",
+    "revision": "fcf3520f1824eb30539f9137a51744fe",
     "url": "/cs498rk_final_project/index.html"
   }
 ];

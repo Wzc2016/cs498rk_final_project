@@ -1,10 +1,10 @@
 {
   "main.css": "/cs498rk_final_project/static/css/main.8a7e8558.chunk.css",
-  "main.js": "/cs498rk_final_project/static/js/main.282122d3.chunk.js",
-  "main.js.map": "/cs498rk_final_project/static/js/main.282122d3.chunk.js.map",
+  "main.js": "/cs498rk_final_project/static/js/main.c25d2ef7.chunk.js",
+  "main.js.map": "/cs498rk_final_project/static/js/main.c25d2ef7.chunk.js.map",
   "static/css/1.c6588800.chunk.css": "/cs498rk_final_project/static/css/1.c6588800.chunk.css",
-  "static/js/1.b0041e4b.chunk.js": "/cs498rk_final_project/static/js/1.b0041e4b.chunk.js",
-  "static/js/1.b0041e4b.chunk.js.map": "/cs498rk_final_project/static/js/1.b0041e4b.chunk.js.map",
+  "static/js/1.8344fdd0.chunk.js": "/cs498rk_final_project/static/js/1.8344fdd0.chunk.js",
+  "static/js/1.8344fdd0.chunk.js.map": "/cs498rk_final_project/static/js/1.8344fdd0.chunk.js.map",
   "runtime~main.js": "/cs498rk_final_project/static/js/runtime~main.26a59b87.js",
   "runtime~main.js.map": "/cs498rk_final_project/static/js/runtime~main.26a59b87.js.map",
   "static/media/semantic.min.css": "/cs498rk_final_project/static/media/brand-icons.a1a749e8.svg",
@@ -14,6 +14,6 @@
   "static/css/main.8a7e8558.chunk.css.map": "/cs498rk_final_project/static/css/main.8a7e8558.chunk.css.map",
   "static/css/1.c6588800.chunk.css.map": "/cs498rk_final_project/static/css/1.c6588800.chunk.css.map",
   "index.html": "/cs498rk_final_project/index.html",
-  "precache-manifest.fcf0351475c6d5f1233eab5d1dead4df.js": "/cs498rk_final_project/precache-manifest.fcf0351475c6d5f1233eab5d1dead4df.js",
+  "precache-manifest.91ee5c866586234b37b9276c3628ff7c.js": "/cs498rk_final_project/precache-manifest.91ee5c866586234b37b9276c3628ff7c.js",
   "service-worker.js": "/cs498rk_final_project/service-worker.js"
 }
