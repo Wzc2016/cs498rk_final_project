@@ -1,6 +1,7 @@
 {
   "name": "react-firebase-authentication",
   "version": "0.2.0",
+  "homepage": "https://wzc2016.github.io/cs498rk_final_project",
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
