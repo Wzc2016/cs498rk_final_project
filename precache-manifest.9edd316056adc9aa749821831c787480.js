@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "c25d2ef76990fc791e35",
+    "revision": "8b0cc12789b88da9d6bf",
     "url": "/cs498rk_final_project/static/css/main.8a7e8558.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "c25d2ef76990fc791e35",
-    "url": "/cs498rk_final_project/static/js/main.c25d2ef7.chunk.js"
+    "revision": "8b0cc12789b88da9d6bf",
+    "url": "/cs498rk_final_project/static/js/main.8b0cc127.chunk.js"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -68,12 +68,12 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/media/icons.8e3c7f55.eot"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "/cs498rk_final_project/static/media/brand-icons.13db00b7.eot"
-  },
-  {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "/cs498rk_final_project/static/media/icons.b87b9ba5.ttf"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "/cs498rk_final_project/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "c5ebe0b32dc1b5cc449a76c4204d13bb",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/cs498rk_final_project/static/css/1.c6588800.chunk.css"
   },
   {
-    "revision": "fcf3520f1824eb30539f9137a51744fe",
+    "revision": "3b9281e45d2d6bfd2ace447fe391e2ef",
     "url": "/cs498rk_final_project/index.html"
   }
 ];
